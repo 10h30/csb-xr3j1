@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-practice-name-age"]=this["webpackJsonpreact-practice-name-age"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(1),a=c(3),r=c.n(a),i=(c(8),c(0));function s(){return Object(i.jsxs)("div",{className:"App",children:[Object(i.jsx)("h1",{children:"Hello CodeSandbox"}),Object(i.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var o=document.getElementById("root");r.a.render(Object(i.jsx)(n.StrictMode,{children:Object(i.jsx)(s,{})}),o)},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.7163dfbc.chunk.js.map
